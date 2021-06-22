@@ -1,0 +1,16 @@
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte6\TestandoRegex\obj\Debug\net5.0\TestandoRegex.csprojAssemblyReference.cache
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte6\TestandoRegex\obj\Debug\net5.0\TestandoRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte6\TestandoRegex\obj\Debug\net5.0\TestandoRegex.AssemblyInfoInputs.cache
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte6\TestandoRegex\obj\Debug\net5.0\TestandoRegex.AssemblyInfo.cs
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte6\TestandoRegex\obj\Debug\net5.0\TestandoRegex.csproj.CoreCompileInputs.cache
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte6\TestandoRegex\bin\Debug\net5.0\TestandoRegex.exe
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte6\TestandoRegex\bin\Debug\net5.0\TestandoRegex.deps.json
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte6\TestandoRegex\bin\Debug\net5.0\TestandoRegex.runtimeconfig.json
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte6\TestandoRegex\bin\Debug\net5.0\TestandoRegex.runtimeconfig.dev.json
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte6\TestandoRegex\bin\Debug\net5.0\TestandoRegex.dll
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte6\TestandoRegex\bin\Debug\net5.0\ref\TestandoRegex.dll
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte6\TestandoRegex\bin\Debug\net5.0\TestandoRegex.pdb
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte6\TestandoRegex\obj\Debug\net5.0\TestandoRegex.dll
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte6\TestandoRegex\obj\Debug\net5.0\ref\TestandoRegex.dll
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte6\TestandoRegex\obj\Debug\net5.0\TestandoRegex.pdb
+C:\Users\Nathalia\OneDrive\Documents\Programacao\ALURA\alura-csharp-parte6\TestandoRegex\obj\Debug\net5.0\TestandoRegex.genruntimeconfig.cache

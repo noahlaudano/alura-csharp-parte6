@@ -2,22 +2,23 @@ namespace ByteBank.ByteBankModelos
 {
     public class Cliente
     {
-
         public string Nome { get; set; }
-        private string _cpf;
-        public string CPF
-        {
-            get
-            {
-                return _cpf;
-            }
-            set
-            {
-                // aqui entraria a lógica de validação do CPF
-                _cpf = value;
-            }
-        }
+        public string CPF { get; set; }
         public string Profissao { get; set; }
 
+        public override bool Equals(object obj)
+        {
+            Cliente outroCliente = obj as Cliente;
+
+            if (outroCliente == null)
+            {
+                return false;
+            }
+
+            return CPF == outroCliente.CPF;
+        }
+
+
     }
+
 }
